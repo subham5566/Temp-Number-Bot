@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton, Keyboar
 from telegram.ext import Updater, CommandHandler, CallbackContext, MessageHandler, Filters, CallbackQueryHandler
 
 TELEGRAM_TOKEN = '' # Telegram Token
-API_KEY = '' #5sim's API Key
+API_KEY = 'SUBHAM' #5sim's API Key
 ADMIN_USER_IDS = []  # Replace with the actual admin's user ID
 
 # Dictionary to store authorized users and their expiration times
